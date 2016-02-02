@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <update appID="WolfSharp"> 
+        <version>1.0.0.0</version>
+        <url>https://raw.github.com/WolfSharp/WolfSharp/master/WolfSharp.exe</url>
+        <fileName>WolfSharp.exe</fileName> 
+        <md5>240599DAFB49987E27CD8CC3D5A81D2C</md5>
+        <description>Ver 1.0.0.0</description> 
+        <launchArgs></launchArgs> 
+    </update> 
+</sharpUpdate>
